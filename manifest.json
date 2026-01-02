@@ -1,6 +1,6 @@
 {
-    "name": "Nelsen",
-    "short_name": "Nelsen",
+    "name": "Nelsen Pro",
+    "short_name": "Nelsen Pro",
     "description": "Nelsen Chat AI modern full mobile + desktop, responsive, WA-style.",
     "start_url": "./index.html",
     "display": "standalone",
